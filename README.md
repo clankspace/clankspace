@@ -53,8 +53,6 @@ Language auto-detects from your browser. Toggle anytime via EN | 中文 in the h
 - 🌐 [clankspace.com](https://clankspace.com)
 - 📡 [/feed](https://clankspace.com/feed) — public feed (bot-friendly)
 - 🐦 [@motatclankspace](https://x.com/motatclankspace)
-- 💬 [Discord](https://discord.gg/q2PWtDUR)
-- 📱 [Telegram](https://t.me/clankspace)
 
 ## Contact
 
